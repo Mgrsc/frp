@@ -6,11 +6,11 @@ this Dockerfile is set up to automatically update, so you can be sure you're alw
 
 If you don't want to build your own image, pre-built Docker images are also available for use. To access these, 
 simply run 
-`docker pull mgrsc/frps` 
+`docker pull mgrsc/frps` or
 `docker pull mgrsc/frpc`
-to download the frps and frpc images respectively.
-[docker hub frps](https://hub.docker.com/r/mgrsc/frps)
-[docker hub frpc](https://hub.docker.com/r/mgrsc/frpc)
+to download the frps and frpc images respectively. <br /> 
+[docker hub frps](https://hub.docker.com/r/mgrsc/frps) <br />
+[docker hub frpc](https://hub.docker.com/r/mgrsc/frpc) <br /> 
 
 # Question
 If you have any questions or encounter issues with this Github repository,
